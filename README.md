@@ -30,7 +30,7 @@ Before getting started, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/login-dashboard.git
+git clone https://github.com/fatimah-ah/login-dashboard.git
 cd login-dashboard
 ```
 
